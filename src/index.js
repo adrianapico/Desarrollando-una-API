@@ -10,7 +10,6 @@ const mongoose = require('mongoose');
 const app = express( );
 const PORT = process.env.PORT || 3000;
 
-
 mongoose.set('strictQuery', true);
 
 mongoose.connect(`mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@apirest.oandxng.mongodb.net/Santander`)
