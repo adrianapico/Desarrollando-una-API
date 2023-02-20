@@ -1,4 +1,4 @@
-# Desarrollando-una-API ☑️
+# Desarrollando-una-API REST ☑️
 
 DESCRIPTION FOR THIS PROJECT
 

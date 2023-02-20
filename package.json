@@ -1,0 +1,30 @@
+{
+  "name": "desarrollando-una-api",
+  "version": "1.0.0",
+  "description": "En este proyecto se desarrolló una API REST",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianapico/Desarrollando-una-API.git"
+  },
+  "keywords": [],
+  "author": "Adriana Smith Pico Cuadros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianapico/Desarrollando-una-API/issues"
+  },
+  "homepage": "https://github.com/adrianapico/Desarrollando-una-API#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
+  }
+}
