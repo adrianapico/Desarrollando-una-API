@@ -54,7 +54,7 @@ The tools that were used to create this project are:
  - [React.Js] : Used for the content of the page that the user will observe.
  
  - Framework
-  Tailwind
+  Bootstrap
   
 ### Backend
 - [Mongo Atlas] - Used to store the information of the database.
