@@ -22,20 +22,12 @@ bash
 
 ### Installation 🔧
 
-- Front-End Installation
-
-bash
-1. `cd app`
-2. `npm install`
-3. `npm start`
-
-
 - Back-End Installation
 
 bash
 1. `cd backend`
 2. `npm install`
-3. `node index`
+3. `nodemon ./src/index.js`
 
 
 ## Deployment 📦
